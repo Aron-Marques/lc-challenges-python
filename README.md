@@ -9,4 +9,5 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 
 ## novos comando git
 ## usando git push teste
+## e git pull
 
